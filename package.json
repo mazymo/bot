@@ -1,0 +1,16 @@
+{
+  "name": "Pepito el Bot",
+  "version": "1.0.0",
+  "description": "comunica en samp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mazymo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.2.0",
+    "winston": "^3.2.1"
+  }
+}
